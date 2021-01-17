@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1585729755 source:c:\users\comp\desktop\bank\main.cpp
+	<iostream>
+	"enor.h"
+
+1585729789 c:\users\comp\desktop\bank\enor.h
+	<fstream>
+
+1585730488 source:c:\users\comp\desktop\bank\enor.cpp
+	"enor.h"
+
