@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1553350618 source:c:\users\comp\desktop\foodwithlargestincome\foodenor.cpp
+	"foodEnor.h"
+
+1553350706 c:\users\comp\desktop\foodwithlargestincome\foodenor.h
+	<iostream>
+	<fstream>
+
+1585718928 source:c:\users\comp\desktop\foodwithlargestincome\main.cpp
+	<iostream>
+	"FoodEnor.h"
+

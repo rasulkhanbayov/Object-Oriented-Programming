@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1593181159 source:c:\users\comp\desktop\retakexam\main.cpp
+	<iostream>
+	"library/enumerator.hpp"
+	"library/seqinfileenumerator.hpp"
+	"library/stringstreamenumerator.hpp"
+	"library/summation.hpp"
+	"library/linsearch.hpp"
+
+1502807230 c:\users\comp\desktop\retakexam\library\enumerator.hpp
+
+1560175596 c:\users\comp\desktop\retakexam\library\seqinfileenumerator.hpp
+	<fstream>
+	<typeinfo>
+	<sstream>
+	"enumerator.hpp"
+
+1554930022 c:\users\comp\desktop\retakexam\library\stringstreamenumerator.hpp
+	<typeinfo>
+	<sstream>
+	"enumerator.hpp"
+
+1591709260 c:\users\comp\desktop\retakexam\library\summation.hpp
+	"procedure.hpp"
+	<iostream>
+
+1586930766 c:\users\comp\desktop\retakexam\library\procedure.hpp
+	<cstddef>
+	"enumerator.hpp"
+	<iostream>
+	<vector>
+
+1537804148 c:\users\comp\desktop\retakexam\library\counting.hpp
+	"summation.hpp"
+
+1590762384 c:\users\comp\desktop\retakexam\library\linsearch.hpp
+	"procedure.hpp"
+
+1547534800 c:\users\comp\desktop\retakexam\library\maxsearch.hpp
+	"procedure.hpp"
+

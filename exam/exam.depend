@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1591978509 source:c:\users\comp\desktop\oopsamples\exam\main.cpp
+	<iostream>
+	"library/summation.hpp"
+	"library/counting.hpp"
+	"library/seqinfileenumerator.hpp"
+	"library/stringstreamenumerator.hpp"
+	"library/maxsearch.hpp"
+	"library/linsearch.hpp"
+
+1547536602 c:\users\comp\desktop\library\summation.hpp
+	"procedure.hpp"
+	<iostream>
+
+1555644884 c:\users\comp\desktop\library\procedure.hpp
+	<cstddef>
+	"enumerator.hpp"
+	<iostream>
+	<vector>
+
+1502807230 c:\users\comp\desktop\library\enumerator.hpp
+
+1537804150 c:\users\comp\desktop\library\counting.hpp
+	"summation.hpp"
+
+1535992380 c:\users\comp\desktop\library\seqinfileenumerator.hpp
+	<fstream>
+	<typeinfo>
+	<sstream>
+	"enumerator.hpp"
+
+1554930024 c:\users\comp\desktop\library\stringstreamenumerator.hpp
+	<typeinfo>
+	<sstream>
+	"enumerator.hpp"
+
+1547534800 c:\users\comp\desktop\library\maxsearch.hpp
+	"procedure.hpp"
+
+1555571698 c:\users\comp\desktop\library\linsearch.hpp
+	"procedure.hpp"
+
+1547536602 c:\users\comp\desktop\oopsamples\exam\library\summation.hpp
+	"procedure.hpp"
+	<iostream>
+
+1555644884 c:\users\comp\desktop\oopsamples\exam\library\procedure.hpp
+	<cstddef>
+	"enumerator.hpp"
+	<iostream>
+	<vector>
+
+1502807230 c:\users\comp\desktop\oopsamples\exam\library\enumerator.hpp
+
+1537804150 c:\users\comp\desktop\oopsamples\exam\library\counting.hpp
+	"summation.hpp"
+
+1535992380 c:\users\comp\desktop\oopsamples\exam\library\seqinfileenumerator.hpp
+	<fstream>
+	<typeinfo>
+	<sstream>
+	"enumerator.hpp"
+
+1554930024 c:\users\comp\desktop\oopsamples\exam\library\stringstreamenumerator.hpp
+	<typeinfo>
+	<sstream>
+	"enumerator.hpp"
+
+1547534800 c:\users\comp\desktop\oopsamples\exam\library\maxsearch.hpp
+	"procedure.hpp"
+
+1555571698 c:\users\comp\desktop\oopsamples\exam\library\linsearch.hpp
+	"procedure.hpp"
+
